@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://juangranadosm.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi Aprendizaje en Launch X</title>
+      <link>https://juangranadosm.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juangranadosm.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>¡Hola que tal a todos!
+Durante mi estancia en Launch X, he aprendido un montón sobre como ser un desarrollador FullStack
+ 🐍 Onboarding: En esta etapa aprendí lo básico sobre el lenguaje de programación Python, el uso de variables, constantes, bucles, condicionales, detectar issues, uso de las funciones, me gusto mucho porque me permitió repasar algunos conceptos básicos de programación y empezar a ser autodidacta. 🎨 FrontEnd: En esta sección me permitió mejorar mis conocimientos de como están compuestos las páginas web con HTML, CSS y JavaScript, el uso de frameworks, a pesar de que no he terminado de cursar esta parte he aprendido mucho y ha mejorado mis conocimientos hasta la etapa que me encuentro del curso, realmente quiero acabar esta parte porque me interesa mucho.</description>
+    </item>
+    
+    <item>
       <title>La Cultura de un Desarrollad@r de Software</title>
       <link>https://juangranadosm.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
