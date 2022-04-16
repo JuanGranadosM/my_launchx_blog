@@ -2,20 +2,17 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "About Me"
 ---
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+¡Hola que tal a todos! 
+Soy Juan Carlos Granados Medina tengo 18 años y vivo en el Estado de México, sobre mí
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+- 🎓 Estoy estudiando actualmente el ultimo semestre de preparatoria en la carrera técnica de "Técnico en Programación" en CECyTEM
+- 🎮 Me gustan los videojuegos especialmente la saga Halo, Dark Souls y Dead Space, aunque cualquier videojuego es bienvenido.
+- 📖 Me gusta leer, actualmente estoy leyendo libros de desarrollo personal y mi favorito es "Hábitos Atómicos de James Clear".
+- 🕹 Uno de los campos de programación que más me gusta es el desarrollo de videojuegos y cual quiero seguir aprendiendo, asimismo también el desarrollo web FullStack, cual ¡agradezco a todos los MC el tiempo que nos han brindado para mejorar los conocimientos de todos!
+- 📚 Me gusta aprender siempre cosas nuevas y sumarme a nuevos retos para seguir mejorando mi conocimiento en la programación y en general cada día.
+- 🐶 Tengo un perro, un beagle llamado Bigu (que original el nombre xD).
