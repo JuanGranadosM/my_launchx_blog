@@ -13,3 +13,5 @@ Durante mi estancia en Launch X, he aprendido un montón sobre como ser un desar
 - 📬 BackEnd: Hasta el momento me ha encantando esta sección de FullStack, antes pensaba que iba ser más difícil que las otras secciones pero estoy aprendiendo mucho sobre herramientas que usamos, uso de Git y Github así como a perder el miedo a usarlos, JavaScript orientado a objetos, Hugo, realmente quiero conocer más sobre los temas que estamos viendo.
 
 Launch X puedo describirlo como una de las mejores experiencias que he estado para mejorar mis conocimientos como desarrollador FullStack, a pesar de que me ha resultado difícil organizarme con la escuela y ponerme al corriente con los ejercicios, realmente siento que es una oportunidad que no puedo dejar pasar y haré lo posible para estar al tanto de todo.
+
+¡Gracias por leer! ✨
