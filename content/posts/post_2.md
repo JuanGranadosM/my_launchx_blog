@@ -1,7 +1,7 @@
 ---
 title: "¿Github? ¿Git? ¿No son lo mismo?"
-date: 2022-04-16
-description: 'En este post se encuentra el concepto de Github y de que manera se diferencia de Git'
+date: 2022-04-25
+description: 'En este post se encuentra el concepto de Git y Github y de que manera se diferencia de Git'
 ---
 
 ¡Hola que tal a todos!
